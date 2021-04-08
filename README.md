@@ -45,5 +45,7 @@ Descrever como instalar e preparar qualquer dependência de desenvolvimento para
 ## Meta
 
 Seu nome - [@seuusuario](https://twitter.com/seuusuario) - seu email seuemail@email.com
+
 Distribuido sobre a Licença. Veja `Licença`para mais informações.
+
 <https://github.com/seuusuario/seuprojeto>
