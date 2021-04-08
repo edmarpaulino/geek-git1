@@ -23,7 +23,7 @@ edit autoexec.bat
 
 Alguns exemplos que motivariam as pessoas a utilizarem o seu projeto ou que demonstrasse que este é útil para alguma coisa. Divida esta parte em parte menores e se possível coloque trechos de códigos e prints de tela.
 
-## Ambeinte de desenvolvimento
+## Ambiente de desenvolvimento
 
 Descrever como instalar e preparar qualquer dependência de desenvolvimento para que o seu projeto possa ser executado localmente e pessoas possam contribuir com o mesmo. Se possível forneça informações para diferentes plataformas, exemplo: Windows, Linux e MacOS.
 
